@@ -9,6 +9,7 @@
 	</head>
 	<body>
 		<!--<a href="#">click</a>-->
+		caonima
 		<img src="http://www.w3school.com.cn/i/w3school_logo_white.gif" />
 		<img src="img/tu.jpg" width="50" height="50" />
 	</body>
